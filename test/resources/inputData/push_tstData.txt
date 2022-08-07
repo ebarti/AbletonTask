@@ -1,0 +1,9 @@
+module push reverse
+module slow delay
+module bomb echo
+module madness noop
+connect push madness
+connect madness slow
+connect slow bomb
+connect bomb madness
+process DamN

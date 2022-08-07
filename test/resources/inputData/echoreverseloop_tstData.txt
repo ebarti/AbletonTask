@@ -1,0 +1,7 @@
+module push delay
+module max reverse
+connect push max
+module nativeinstruments noop
+connect push nativeinstruments
+connect nativeinstruments push
+process this madness

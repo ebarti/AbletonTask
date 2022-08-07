@@ -1,0 +1,7 @@
+module live delay
+module push reverse
+module maxforlive noop
+connect live push
+process this line has no output as last module is unconnected
+connect push maxforlive
+process now we have output

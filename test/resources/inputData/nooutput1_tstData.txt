@@ -1,0 +1,7 @@
+module link noop
+module ableton delay
+module madness reverse
+module nooutput
+connect ableton link
+connect madness ableton
+process hello world
