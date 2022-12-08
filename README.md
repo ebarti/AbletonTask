@@ -2,8 +2,6 @@ Built Sept 2020
 
 # My Solution to Ableton's Task 1: Modular Madness
 
-Eloi Barti Tremoleda  
-<me@eloibarti.com>  
 www.eloibarti.com  
 www.github.com/ebarti  
 www.soundcloud.com/tremoleda
